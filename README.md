@@ -1,2 +1,2 @@
 # WeatherApp
-Simple Weather Ap using Python
+Simple Weather App api using Python
