@@ -1,2 +1,2 @@
 # WeatherApp
-Simple Weather App api using Python
+a simple weather app made with python. I used openweather API. 
